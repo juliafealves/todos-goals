@@ -5,8 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project used the libraries: `react` `react-redux` `redux-thunk` and `redux`.
 It was possible to learn the main concepts of using React-Redux.
 
-![screenshot](screenshot.png)
-
 ## Features
 
 - Add ToDos
@@ -14,6 +12,8 @@ It was possible to learn the main concepts of using React-Redux.
 - Remove ToDos
 - Add Goals
 - Remove Goals
+
+![screenshot](screenshot.png)
 
 ## Available Scripts
 
