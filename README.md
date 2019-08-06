@@ -1,11 +1,11 @@
-# To Do List and Goals with React Redux
+# :heavy_check_mark: To Do List and Goals with React Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project used the libraries: `react` `react-redux` `redux-thunk` and `redux`.
 It was possible to learn the main concepts of using React-Redux.
 
-![screenshort](screenshort.png)
+![screenshot](screenshot.png)
 
 ## Features
 
