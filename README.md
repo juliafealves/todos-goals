@@ -15,6 +15,8 @@ It was possible to learn the main concepts of using React-Redux.
 
 ![screenshot](screenshot.png)
 
+Based on the Udacity course.
+
 ## Available Scripts
 
 In the project directory, you can run:
